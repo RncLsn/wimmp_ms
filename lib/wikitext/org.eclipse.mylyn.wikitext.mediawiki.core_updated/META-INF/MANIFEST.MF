@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Export-Package: org.eclipse.mylyn.internal.wikitext.mediawiki.core;x-i
+ nternal:=true,org.eclipse.mylyn.internal.wikitext.mediawiki.core.bloc
+ k;x-internal:=true,org.eclipse.mylyn.internal.wikitext.mediawiki.core
+ .phrase;x-internal:=true,org.eclipse.mylyn.internal.wikitext.mediawik
+ i.core.tasks;x-internal:=true,org.eclipse.mylyn.internal.wikitext.med
+ iawiki.core.token;x-internal:=true,org.eclipse.mylyn.internal.wikitex
+ t.mediawiki.core.validation;x-internal:=true,org.eclipse.mylyn.wikite
+ xt.mediawiki.core,services
+Built-By: hudsonbuild
+Bundle-Name: %Bundle-Name.0
+Bundle-Localization: plugin
+Created-By: Apache Maven
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.mylyn.wikitext.core;bundle-version="2.0.0"
+ ,org.eclipse.mylyn.wikitext.core.ant;bundle-version="2.0.0",org.eclip
+ se.team.core;resolution:=optional
+Bundle-Vendor: %Bundle-Vendor.0
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/mylyn/
+ org.eclipse.mylyn.docs.git;path="org.eclipse.mylyn.wikitext.mediawiki
+ .core";commitId=7e2b7ad935b186d99c1153910d53bda259037646
+Build-Jdk: 1.6.0_21
+Bundle-Version: 2.1.0.N20140325-2210
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclipse.mylyn.wikitext.mediawiki.core;singlet
+ on:=true
+Archiver-Version: Plexus Archiver
+

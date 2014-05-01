@@ -1,0 +1,7 @@
+*~
+*.class
+*.bak
+*.bak1
+*.bak*
+*.out
+sources
