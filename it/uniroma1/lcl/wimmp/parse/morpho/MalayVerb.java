@@ -1,18 +1,11 @@
 package it.uniroma1.lcl.wimmp.parse.morpho;
 
 import it.uniroma1.lcl.wimmp.*;
+import it.uniroma1.lcl.wimmp.parse.EmptyRule;
 
 public class MalayVerb extends MorphoEntry {
-    /*
-    private String daInf;
 
-    public EstonianVerb(String lemma, EstonianConjugation conj, boolean regular) {
-        this(lemma, conj, regular, "");
+    public MalayVerb(String lemma) {
+        super(lemma, MorphoEntry.POS.VERB, true, new EmptyRule());
     }
-    
-    public EstonianVerb(String lemma, EstonianConjugation conj, boolean regular, String daInf) {
-        super(lemma, MorphoEntry.POS.VERB, regular, conj);
-        this.daInf = daInf;
-    }
-    */
 }

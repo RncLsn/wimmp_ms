@@ -5,9 +5,8 @@ import it.uniroma1.lcl.wimmp.parse.*;
 
 public class MalayConjunction extends MorphoEntry {
 
-    /*
-    public EstonianConjunction(String lemma) {
+    public MalayConjunction(String lemma) {
         super(lemma, MorphoEntry.POS.CONJUNCTION, true, new EmptyRule());
     }
-    */
+
 }

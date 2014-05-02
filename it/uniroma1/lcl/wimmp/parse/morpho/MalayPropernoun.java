@@ -4,9 +4,9 @@ import it.uniroma1.lcl.wimmp.*;
 import it.uniroma1.lcl.wimmp.parse.*;
 
 public class MalayPropernoun extends MorphoEntry {
-    /*
-    public EstonianPropernoun(String lemma) {
+
+    public MalayPropernoun(String lemma) {
         super(lemma, MorphoEntry.POS.PROPER_NOUN, true, new EmptyRule());
     }
-    */
+
 }

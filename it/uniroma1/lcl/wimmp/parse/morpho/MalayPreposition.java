@@ -4,9 +4,9 @@ import it.uniroma1.lcl.wimmp.*;
 import it.uniroma1.lcl.wimmp.parse.*;
 
 public class MalayPreposition extends MorphoEntry {
-    /*
-    public EstonianPreposition(String lemma) {
+
+    public MalayPreposition(String lemma) {
         super(lemma, MorphoEntry.POS.PREPOSITION, true, new EmptyRule());
     }
-    */
+
 }

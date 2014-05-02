@@ -1,0 +1,2891 @@
+cat#n	true
+April#prop	true
+September#prop	true
+November#prop	true
+abalone#n	true
+Malaysia#prop	true
+Malaysia#adj	true
+ci#n	true
+Albania#prop	true
+Albania#adj	true
+Armenia#prop	true
+Armenia#adj	true
+Azerbaijan#prop	true
+Azerbaijan#adj	true
+China#prop	true
+Indonesia#prop	true
+Indonesia#adj	true
+Portugal#prop	true
+tuba#n	true
+anoa#n	true
+lama#adj	true
+air#n	true
+upas#n	true
+malam#n	true
+bahasa#n	true
+orang#n	true
+Afrikaans#prop	true
+Afrikaans#adj	true
+anu#pron	true
+baik#adj	true
+baik#int	true
+balad#n	true
+beg#n	true
+matahari#prop	true
+Johor#prop	true
+Kedah#prop	true
+Kelantan#prop	true
+Kelantan#adj	true
+Negeri Sembilan#prop	true
+Pahang#prop	true
+perak#n	true
+Perlis#prop	true
+Sabah#prop	true
+Sarawak#prop	true
+Selangor#prop	true
+Terengganu#prop	true
+Kuala Lumpur#prop	true
+Putrajaya#prop	true
+Labuan#prop	true
+saya#pron	true
+punya#v	true
+lapar#adj	true
+buku#n	true
+itu#pron	true
+lihat#v	true
+kucing#n	true
+kamus#n	true
+baru#conj	true
+baru#adj	true
+baru#n	true
+ia#pron	true
+dia#pron	true
+minggu#n	true
+aku#pron	true
+ke#conj	true
+ke#pre	true
+rumah#n	true
+teman#n	true
+teman#v	true
+teman#pron	true
+sana#n	true
+dua#num	true
+kali#v	true
+kali#n	true
+kali#n	true
+kali#v	true
+sekali#adv	true
+bulan#n	true
+satu#num	true
+sungai#n	true
+tak#adv	true
+tiga#num	true
+empat#num	true
+kita#pron	true
+kami#pron	true
+sama#adj	true
+Johor Bahru#prop	true
+Alor Setar#prop	true
+Kota Bharu#prop	true
+Seremban#prop	true
+Kuantan#prop	true
+Ipoh#prop	true
+Kangar#prop	true
+Kota Kinabalu#prop	true
+Kuching#prop	true
+Shah Alam#prop	true
+Kuala Terengganu#prop	true
+alas#n	true
+darmstadtium#n	true
+boat#v	true
+kanji#n	true
+bir#n	true
+hospital#n	true
+mana#adv	true
+hun#n	true
+nitrogen#n	true
+kata#n	true
+darah#n	true
+darah#v	true
+ni#pron	true
+jaguar#n	true
+juta#num	true
+pohon#n	true
+beta#pron	true
+beta#n	true
+helium#n	true
+mu#pron	true
+atom#n	true
+boron#n	true
+neon#n	true
+magnesium#n	true
+aluminium#n	true
+sulfur#n	true
+argon#n	true
+titanium#n	true
+vanadium#n	true
+germanium#n	true
+selenium#n	true
+rubidium#n	true
+strontium#n	true
+niobium#n	true
+indium#n	true
+xenon#n	true
+barium#n	true
+samarium#n	true
+europium#n	true
+gadolinium#n	true
+terbium#n	true
+holmium#n	true
+erbium#n	true
+lutetium#n	true
+hafnium#n	true
+tantalum#n	true
+tungsten#n	true
+osmium#n	true
+iridium#n	true
+platinum#n	true
+polonium#n	true
+radon#n	true
+radium#n	true
+uranium#n	true
+neptunium#n	true
+plutonium#n	true
+berkelium#n	true
+einsteinium#n	true
+fermium#n	true
+mendelevium#n	true
+nobelium#n	true
+dubnium#n	true
+bohrium#n	true
+hassium#n	true
+meitnerium#n	true
+roentgenium#n	true
+yu#n	true
+ca#n	true
+se#num	true
+nah#int	true
+deuterium#n	true
+tri#num	true
+tu#pron	true
+baba#n	true
+googol#num	true
+mega#n	true
+bang#n	true
+banal#adj	true
+Bali#prop	true
+Bali#adj	true
+zoo#n	true
+Jakarta#prop	true
+pat#num	true
+nihil#num	true
+fail#n	true
+fail#v	true
+George Town#prop	true
+Allah#prop	true
+kelapa#n	true
+panda#n	true
+kopi#n	true
+galah#n	true
+papa#n	true
+ini#pron	true
+Jepang#prop	true
+Jepang#adj	true
+dugong#n	true
+Malayalam#prop	true
+Urdu#prop	true
+dari#pre	true
+ikan#n	true
+اب#n	true
+اب#n	true
+اب#n	true
+jam#n	true
+den#pron	true
+tuil#n	true
+dik#n	true
+diem#adj	true
+ada#v	true
+beli#v	true
+apa#pron	true
+bapa#n	true
+coklat#n	true
+coklat#adj	true
+baju#n	true
+barat#n	true
+barat#adj	true
+tali#n	true
+laki-laki#adj	true
+jantan#adj	true
+betina#adj	true
+Belanda#n	true
+Belanda#adj	true
+kuda#n	true
+waktu#n	true
+Jerman#prop	true
+Jerman#adj	true
+pisang#n	true
+bab#n	true
+pulau#n	true
+kawan#n	true
+kawan#pron	true
+sahabat#n	true
+kayu#n	true
+Rusia#prop	true
+Rusia#adj	true
+abu#n	true
+asing#adj	true
+tidak#adv	true
+bumi#n	true
+tanah#n	true
+sebab#conj	true
+mereka#pron	true
+mereka#v	true
+hitam#adj	true
+hitam#n	true
+hutan#n	true
+meja#n	true
+ahad#num	true
+ajaib#adj	true
+bangun#v	true
+belum#adv	true
+biasa#adj	true
+binatang#n	true
+binatang#adj	true
+dan#conj	true
+enam#num	true
+hamba#n	true
+hamba#pron	true
+makan#v	true
+tinggi#adj	true
+tujuh#num	true
+rendah#adj	true
+kaki#n	true
+muka#n	true
+panjang#adj	true
+yang#n	true
+yang#conj	true
+yang#pron	true
+dengar#v	true
+engkau#pron	true
+bapak#n	true
+perempuan#adj	true
+pasir#n	true
+kaula#n	true
+kaula#pron	true
+anak#n	true
+beliau#pron	true
+di#pre	true
+mahal#adj	true
+bunuh#v	true
+kamu#pron	true
+membunuh#v	true
+pembunuh#n	true
+cacing#n	true
+acara#n	true
+amuk#v	true
+anda#pron	true
+antologi#n	true
+atas#pre	true
+baca#v	true
+bagus#adj	true
+besi#n	true
+bicara#v	true
+bukan#adv	true
+sa#num	true
+catur#num	true
+catur#n	true
+daku#pron	true
+datar#adj	true
+datar#v	true
+enak#adj	true
+abang#n	true
+شمس#prop	true
+سوريا#prop	true
+حمار#n	true
+lok#adj	true
+dos#n	true
+siapa#pron	true
+kala#n	true
+peta#n	true
+paha#n	true
+Praha#prop	true
+نام#n	true
+اسم#n	true
+atap#n	true
+awan#n	true
+keluarga#n	true
+kakak#n	true
+mengapa#adv	true
+asin#adj	true
+aneh#adj	true
+alpa#adj	true
+Cina#prop	true
+gong#n	true
+nama#n	true
+balai#n	true
+din#n	true
+abad#n	true
+aba#n	true
+aba#n	true
+aba#n	true
+wai#n	true
+bu#n	true
+komputer#n	true
+kula#n	true
+kula#pron	true
+argentum#n	true
+tren#n	true
+saga#n	true
+saga#n	true
+dot#n	true
+Arab#adj	true
+sate#n	true
+lima#num	true
+sangat#adv	true
+cucu#n	true
+dewa#n	true
+litium#n	true
+ujan#n	true
+عين#n	true
+aba-aba#n	true
+aksara#n	true
+paya#n	true
+pawana#n	true
+monyet#n	true
+misa#n	true
+mong#n	true
+minit#n	true
+misai#n	true
+moa#n	true
+cabai#n	true
+id#n	true
+egos#v	true
+lada#n	true
+laden#v	true
+singa#n	true
+teh#n	true
+belerang#n	true
+gema#n	true
+geta#n	true
+bea#n	true
+bandar#n	true
+dingo#n	true
+guru#n	true
+laki#n	true
+hidrogen#n	true
+plumbum#n	true
+Yahudi#prop	true
+alfabet#n	true
+surat#n	true
+emas#n	true
+ana#pron	true
+bait#n	true
+stadium#n	true
+laksa#n	true
+laksa#num	true
+pipi#n	true
+batu#n	true
+babi#n	true
+padi#n	true
+واحد#num	true
+bah#n	true
+bah#n	true
+bah#n	true
+bah#pre	true
+الله#prop	true
+bahasa Cina#n	true
+انا#pron	true
+ku#pron	true
+bunga#n	true
+sumpit#n	true
+sumpit#n	true
+bahasa Rusia#n	true
+sore#n	true
+ubi#n	true
+gula#n	true
+pupil#n	true
+di mana#adv	true
+ke mana#pron	true
+yang mana#pron	true
+Tuan#n	true
+durian#n	true
+rambutan#n	true
+cubit#v	true
+puma#n	true
+titi#n	true
+bantal#n	true
+armadillo#n	true
+salir#v	true
+bas#n	true
+adat#n	true
+ya#int	true
+ovum#n	true
+yah#n	true
+agar#conj	true
+agar#n	true
+Afrika#prop	true
+tuli#adj	true
+kalium#n	true
+prang#n	true
+asap#n	true
+dah#adj	true
+baka#adj	true
+baka#n	true
+abakus#n	true
+ringgit#adj	true
+ringgit#n	true
+kan#adv	true
+mata#n	true
+natrium#n	true
+mikroskop#n	true
+danau#n	true
+selatan#n	true
+selatan#adj	true
+agama#n	true
+bung#n	true
+kanin#adj	true
+kanin#n	true
+kau#pron	true
+badam#n	true
+badam#adj	true
+mari#v	true
+mari#int	true
+diri#v	true
+diri#n	true
+roda#n	true
+Agus#prop	true
+Jun#prop	true
+Latin#prop	true
+Mac#prop	true
+Minggu#prop	true
+Oktober#prop	true
+Perak#prop	true
+Perancis#prop	true
+Perancis#adj	true
+champagne#n	true
+Neptun#prop	true
+raja#n	true
+tuan#n	true
+raya#adj	true
+Ibrahim#prop	true
+Safar#prop	true
+masjid#n	true
+saler#v	true
+Aristotle#prop	true
+aman#adj	true
+bahasa Indonesia#n	true
+saat#n	true
+ara#n	true
+asu#n	true
+Jepun#prop	true
+Jepun#adj	true
+kindergarten#n	true
+lesen#n	true
+anjing#n	true
+gamelan#n	true
+nam#num	true
+lari#v	true
+kiu#n	true
+lengkap#adj	true
+nek#n	true
+dapur#n	true
+kalendar#n	true
+pagi#n	true
+ain#n	true
+parti#n	true
+aurum#n	true
+koi#pron	true
+isim#n	true
+asa#n	true
+asa#v	true
+masa#n	true
+bomba#n	true
+ari#n	true
+mas#n	true
+usus#n	true
+tante#n	true
+seng#n	true
+doktor#n	true
+galaksi#n	true
+chalet#n	true
+esa#num	true
+rama#n	true
+يوم#n	true
+demokrasi#n	true
+cuma#conj	true
+tua#adj	true
+masin#adj	true
+terjemah#v	true
+pari#n	true
+dak#adv	true
+jong#n	true
+zonder#pre	true
+kuil#n	true
+jalan#n	true
+jalan#v	true
+ganja#n	true
+sambal#n	true
+latah#n	true
+Kopenhagen#prop	true
+بيت#n	true
+balai polis#n	true
+terjemahan mesin#n	true
+besar#adj	true
+laut#n	true
+okey#int	true
+bahasa Jepang#n	true
+ubah#v	true
+hahnium#n	true
+api#n	true
+Inggeris#adj	true
+buta#adj	true
+damar#n	true
+resit#n	true
+hari#n	true
+harap#v	true
+busa#n	true
+akar#n	true
+kotor#adj	true
+mesti#adv	true
+inga#v	true
+mak#n	true
+kitab#n	true
+sabun#n	true
+wolfram#n	true
+anam#num	true
+dalam#adj	true
+dalam#pre	true
+kiri#adj	true
+minum#v	true
+utan#n	true
+sagu#n	true
+tuk#n	true
+Bandar Seri Begawan#prop	true
+ru#n	true
+sembilan#num	true
+محرم#prop	true
+صفر#prop	true
+صفر#num	true
+buka#v	true
+kapal#n	true
+kaya#adj	true
+kaya#n	true
+tawa#v	true
+rusa#n	true
+topi#n	true
+datang#v	true
+mati#adj	true
+mati#v	true
+kertas#n	true
+beberapa#adj	true
+beberapa#adv	true
+beberapa#pron	true
+bawah#pre	true
+atau#conj	true
+tetapi#conj	true
+tapi#conj	true
+kalau#conj	true
+karena#conj	true
+juga#adv	true
+supaya#conj	true
+hanya#conj	true
+masak#v	true
+masak#adj	true
+adik#n	true
+ibu#n	true
+makanan#n	true
+sekolah#n	true
+kosa kata#n	true
+mangga#n	true
+mangga#n	true
+anggur#n	true
+jeruk#adj	true
+jeruk#n	true
+jingga#adj	true
+jingga#n	true
+merah#adj	true
+merah#n	true
+warna#n	true
+kutu#n	true
+ajak#v	true
+alu#n	true
+hati#n	true
+kulit#n	true
+nasi#n	true
+nyamuk#n	true
+tangan#n	true
+kereta#n	true
+masuk#v	true
+gali#v	true
+hulu#n	true
+bulu#n	true
+hadap#v	true
+henti#v	true
+hujan#n	true
+urat#n	true
+manuk#n	true
+esok#n	true
+esok#adv	true
+mentah#adj	true
+nyiur#n	true
+panah#v	true
+panah#n	true
+salah#adj	true
+pandan#n	true
+pejam#v	true
+pitu#num	true
+rumbia#n	true
+tahun#n	true
+tasik#n	true
+telaga#n	true
+tanam#v	true
+benua#n	true
+tangis#v	true
+sinar#n	true
+telu#num	true
+tiram#n	true
+tuhan#n	true
+udang#n	true
+beri#v	true
+bokor#n	true
+kejam#v	true
+kejam#adj	true
+keju#n	true
+kelawar#n	true
+kepala#n	true
+kilat#n	true
+kilat#adj	true
+katak#n	true
+kodok#n	true
+utara#n	true
+utara#adj	true
+burung#n	true
+langit#n	true
+terbang#v	true
+layar#n	true
+lidah#n	true
+putih#adj	true
+putih#n	true
+umum#adj	true
+umum#v	true
+manis#adj	true
+manusia#n	true
+buah#n	true
+impi#v	true
+mula#n	true
+mula#v	true
+mula#v	true
+mulut#n	true
+nabi#n	true
+naga#n	true
+nuri#n	true
+nusa#n	true
+otak#n	true
+getah#n	true
+pecah#adj	true
+bambu#n	true
+kampung#n	true
+kampung#adj	true
+duyung#n	true
+rambut#n	true
+sarung#n	true
+panca#num	true
+pasar#n	true
+pintu#n	true
+ribu#num	true
+rotan#n	true
+roti#n	true
+sakit#adj	true
+sakar#n	true
+susu#n	true
+susu#v	true
+tahu#v	true
+tebu#n	true
+telur#n	true
+papan#n	true
+buaya#n	true
+duli#n	true
+gua#pron	true
+keti#num	true
+madu#n	true
+hidup#v	true
+hidup#n	true
+hiu#n	true
+ratu#n	true
+berat#adj	true
+beras#n	true
+bibir#n	true
+arus#n	true
+ardi#n	true
+kuku#n	true
+ina#n	true
+pilih#v	true
+lubang#n	true
+wangkang#n	true
+anggap#v	true
+taruh#v	true
+perahu#n	true
+luak#v	true
+penuh#adj	true
+tunjuk#v	true
+buluh#n	true
+guruh#n	true
+penyu#n	true
+lumut#n	true
+putus#adj	true
+luah#v	true
+hidung#n	true
+takut#adj	true
+takut#v	true
+tumbuh#v	true
+nanah#n	true
+nanah#v	true
+dahi#n	true
+daun#n	true
+bukit#n	true
+ucap#v	true
+langau#n	true
+ulat#n	true
+kabut#n	true
+tinjau#v	true
+labah#n	true
+untung#n	true
+pusat#n	true
+tengar#n	true
+tuju#v	true
+kumis#n	true
+الو#n	true
+puyu#n	true
+tahi#n	true
+aur#n	true
+kad#n	true
+sini#pron	true
+bubu#n	true
+aya#n	true
+alur#v	true
+alur#n	true
+hatur#v	true
+Klang#prop	true
+کالا#n	true
+Julai#prop	true
+situ#n	true
+sangkut#v	true
+sangkut#n	true
+gering#adj	true
+segara#n	true
+wap#n	true
+uap#v	true
+borzoi#n	true
+kati#n	true
+uda#n	true
+eka#num	true
+س#num	true
+ک#pre	true
+abjad#n	true
+کو#pron	true
+dalang#n	true
+guni#n	true
+baring#v	true
+ijazah#n	true
+delapan#num	true
+sadin#v	true
+mangan#n	true
+Timor#prop	true
+tentang#pre	true
+agar-agar#n	true
+zaman#n	true
+gaun#n	true
+telinga#n	true
+kanak#n	true
+berada#v	true
+duduk#v	true
+perut#n	true
+menciput#v	true
+kening#n	true
+bebas#adj	true
+Big Mac#n	true
+bahasa Melayu#n	true
+besan#n	true
+sains#n	true
+oren#n	true
+unta#n	true
+urus#v	true
+Dalmatia#prop	true
+cahaya#n	true
+orang utan#n	true
+detik#n	true
+telah#adv	true
+adem#adj	true
+kumbang#n	true
+ais#n	true
+asta#num	true
+guli#n	true
+sil#n	true
+aktinium#n	true
+bahu#n	true
+serban#n	true
+kirik#n	true
+alkohol#n	true
+pan#n	true
+kalifornium#n	true
+skandium#n	true
+daya#adj	true
+daya#v	true
+daya#n	true
+kalsium#n	true
+kadmium#n	true
+zirkonium#n	true
+nila#adj	true
+nila#n	true
+Aceh#prop	true
+bahasa Aceh#prop	true
+nol#num	true
+prometium#n	true
+lipas#n	true
+pukimak#n	true
+ayat#n	true
+kang#n	true
+puas#adj	true
+apotek#n	true
+ابراهیم#prop	true
+تو#pron	true
+ساعت#n	true
+să#num	true
+eru#n	true
+ابد#n	true
+falsafah#n	true
+به#n	true
+به#n	true
+به#n	true
+به#pre	true
+مچ#prop	true
+oksigen#n	true
+فیلم#n	true
+زرافه#n	true
+اوتار#n	true
+اوتار#adj	true
+فعل#n	true
+basi#adj	true
+faktor#n	true
+fikir#v	true
+pesta#n	true
+zink#n	true
+راج#n	true
+tulen#adj	true
+palat#n	true
+lori#n	true
+kurun#n	true
+berma#adj	true
+berma#n	true
+kanan#adj	true
+نم#num	true
+macan#n	true
+مس#n	true
+suri#n	true
+puki#n	true
+sepuluh#num	true
+sukan#n	true
+setia#adj	true
+alam#n	true
+kasut#n	true
+kak#n	true
+kupu-kupu#n	true
+rama-rama#n	true
+goda#v	true
+longkang#n	true
+automatik#adj	true
+Singapura#prop	true
+ekologi#n	true
+silat#n	true
+Angkasa#prop	true
+banteng#n	true
+suari#n	true
+pudina#n	true
+turun#v	true
+turun#v	true
+panas#adj	true
+اله#n	true
+kripton#n	true
+kobalt#n	true
+elektron#n	true
+hisap batang#n	true
+gereja#n	true
+hangat#adj	true
+kotek#n	true
+fiil#n	true
+حيوان#n	true
+حيوان#adj	true
+tanak#v	true
+katil#n	true
+selamat pagi#int	true
+selamat jalan#int	true
+sato#n	true
+sato#adj	true
+korek#v	true
+suami#n	true
+pelacur#n	true
+malas#adj	true
+merdeka#adj	true
+aduh#int	true
+aksi#n	true
+aktif#adj	true
+Yunani#prop	true
+bangku#n	true
+bengkel#n	true
+berlian#n	true
+engsel#n	true
+توا#adj	true
+sayang#n	true
+selamat datang#int	true
+anak laki-laki#n	true
+jantung#n	true
+kini#adj	true
+kini#adv	true
+bintang#n	true
+nombor#n	true
+huruf#n	true
+neraka#prop	true
+epal#n	true
+bahasa Perancis#n	true
+دان#conj	true
+biru#adj	true
+biru#n	true
+hijau#adj	true
+hijau#n	true
+kuning#adj	true
+kuning#n	true
+tikus#n	true
+pokok#n	true
+timur#n	true
+timur#adj	true
+ular#n	true
+ayah#n	true
+lebah#n	true
+dingin#adj	true
+tembaga#n	true
+merdaka#n	true
+tidur#v	true
+tidur#n	true
+teman wanita#n	true
+tembak#v	true
+basah#adj	true
+angin#n	true
+kambing#n	true
+arnab#n	true
+gajah#n	true
+sempoa#n	true
+gaji#n	true
+dekat#adj	true
+autopsi#n	true
+geografi#n	true
+pantai#n	true
+beluncas#n	true
+berudu#n	true
+bayang#n	true
+rona#n	true
+inai#n	true
+vokal#n	true
+خنزير#n	true
+tulang#n	true
+gunung#n	true
+wira#n	true
+panji-panji#n	true
+maktab#n	true
+زهرة#prop	true
+sarapan#n	true
+bahasa Arab#prop	true
+malaikat#n	true
+kerajaan#n	true
+bau#n	true
+kubus#n	true
+botol#n	true
+calon#n	true
+utak#n	true
+arsenik#n	true
+kome#pron	true
+agas#n	true
+timor#n	true
+timor#adj	true
+dekad#n	true
+lelaki#adj	true
+negara#n	true
+dunia#n	true
+Musytari#prop	true
+sejuk#adj	true
+beruang#n	true
+biri-biri#n	true
+subuh#v	true
+banjir#n	true
+sudu#n	true
+candu#n	true
+beruang kutub#n	true
+mimpi#v	true
+mimpi#n	true
+harimau#n	true
+xilofon#n	true
+merpati#n	true
+lautan#n	true
+pekan#n	true
+rakan#n	true
+torium#n	true
+lalat#n	true
+tulis#v	true
+bismut#n	true
+antimoni#n	true
+bendera#n	true
+salur#v	true
+kulon#n	true
+kulon#adj	true
+lapan#num	true
+kampong#n	true
+Selasa#prop	true
+Khamis#prop	true
+Jumaat#prop	true
+Sabtu#prop	true
+gigi#n	true
+busur#n	true
+protaktinium#n	true
+askar#n	true
+Nusantara#prop	true
+rutenium#n	true
+renium#n	true
+rodium#n	true
+alor#v	true
+alor#n	true
+teknetium#n	true
+tulium#n	true
+santan#n	true
+bromin#n	true
+fluorin#n	true
+Eropah#prop	true
+Laut Utara#prop	true
+abaka#n	true
+artikel#n	true
+tindakan#n	true
+boleh#v	true
+fatah#n	true
+bahasa Jerman#n	true
+musim#n	true
+rumput#n	true
+gerabak#n	true
+angsa#n	true
+babak#n	true
+hakim#n	true
+prestasi#n	true
+kambing biri-biri#n	true
+pedati#n	true
+nafas#v	true
+bernafas#v	true
+bebal#adj	true
+perang#n	true
+perang#adj	true
+perang#n	true
+akta#n	true
+kanyon#n	true
+sarang#n	true
+benci#n	true
+kira#v	true
+lemah#adj	true
+hantu#n	true
+raksa#n	true
+tuha#adj	true
+jata#n	true
+مات#n	true
+filologi#n	true
+مي#prop	true
+fisiologi#n	true
+Harun#prop	true
+salji#n	true
+kanda#n	true
+kakanda#n	true
+kalah#adj	true
+kalian#pron	true
+saudara#adj	true
+saudara#n	true
+saudara#pron	true
+Maret#prop	true
+Mei#prop	true
+tanjung#n	true
+khalifah#n	true
+ialah#conj	true
+anak-anak#n	true
+anting-anting#n	true
+ayam-ayam#n	true
+adi#n	true
+biling#v	true
+umak#n	true
+Tukul dan sabit#n	true
+anak perempuan#n	true
+jadi#v	true
+jadi#conj	true
+gigit#v	true
+berilium#n	true
+itrium#n	true
+molibdenum#n	true
+sesium#n	true
+serium#n	true
+praseodimium#n	true
+neodimium#n	true
+disprosium#n	true
+komik#n	true
+اون#n	true
+هارون#prop	true
+عادت#n	true
+tukar#v	true
+tukar#v	true
+tukar#v	true
+rogol#n	true
+percuma#adj	true
+besok#n	true
+besok#adv	true
+khinzir#n	true
+ekor#n	true
+debu#n	true
+debu#pron	true
+ginjal#n	true
+laju#adj	true
+lelah#adj	true
+basikal#n	true
+karbon#n	true
+kapuk#n	true
+Tahun Baru#n	true
+bĕndera#n	true
+teledu#n	true
+harus#adv	true
+bahasa Afrikaans#prop	true
+bahasa Afrikaans#adj	true
+petang#n	true
+tombak#n	true
+tetas#v	true
+berhad#n	true
+kura-kura#n	true
+Zuhrah#prop	true
+mitos#n	true
+Utarid#prop	true
+asam#adj	true
+asam#n	true
+teknik#n	true
+siamang#n	true
+siamang#n	true
+abang-abang#n	true
+ني#pron	true
+patik#pron	true
+serigala#n	true
+kijang#n	true
+pelangi#n	true
+bianglala#n	true
+cabar#v	true
+paul#adj	true
+paul#n	true
+cadang#v	true
+dukun#n	true
+azam#n	true
+pawang#n	true
+zuriat#n	true
+ritma#n	true
+gagak#n	true
+lembu#n	true
+توان#n	true
+badan#n	true
+bilik#n	true
+ayam#n	true
+ابجد#n	true
+ارض#n	true
+اسود#adj	true
+اسود#n	true
+buntal#n	true
+هيليوم#n	true
+بورون#n	true
+نيون#n	true
+فضة#n	true
+دولي#n	true
+اخضر#adj	true
+اخضر#n	true
+ورن#n	true
+ورنا#n	true
+رمبوت#n	true
+رمبت#n	true
+daging#n	true
+jitu#adj	true
+dinda#n	true
+mustahil#adj	true
+selat#n	true
+salak#n	true
+salak#v	true
+nikel#n	true
+nawa#num	true
+sunyi#adj	true
+pekak#adj	true
+pekak#n	true
+haiwan#n	true
+haiwan#adj	true
+bilang#v	true
+cendawan#n	true
+bateri#n	true
+pedas#adj	true
+lumpur#n	true
+kuala#n	true
+batu karang#n	true
+batu karang#adj	true
+buah pala#n	true
+untuk#pre	true
+daerah#n	true
+batu bata#n	true
+gudang#n	true
+telanjang#adj	true
+زمان#n	true
+bajing#n	true
+sonder#pre	true
+ahmak#adj	true
+bola sepak#n	true
+jika#conj	true
+pakatan#n	true
+anjing rakun#n	true
+anjing prairi#n	true
+anjing laut#n	true
+berang-berang#n	true
+binturung#n	true
+kerbau#n	true
+kelelawar#n	true
+babi hutan#n	true
+musang#n	true
+Rabu#prop	true
+Senin#prop	true
+Kamis#prop	true
+cangkir#n	true
+minyak#n	true
+inframerah#n	true
+mangkuk#n	true
+paru-paru#n	true
+guntur#n	true
+saudari#n	true
+saudari#pron	true
+gading#n	true
+gading#adj	true
+lutut#n	true
+miskin#adj	true
+aler#v	true
+aler#n	true
+داود#prop	true
+tabib#n	true
+mentega#n	true
+مغرب#n	true
+مغرب#adj	true
+emak#n	true
+tangga#n	true
+perabot#n	true
+penyakit#n	true
+logam#n	true
+kuprum#n	true
+tidak pernah#adv	true
+bidadari#n	true
+karya#n	true
+abu-abu#adj	true
+abu-abu#n	true
+Affenpinscher#n	true
+مارت#prop	true
+landak#n	true
+stesen#n	true
+mudah#adj	true
+datu#n	true
+belas#num	true
+اد#v	true
+fikologi#n	true
+Hijau#n	true
+silikon#n	true
+ramal#n	true
+kejohanan#n	true
+Tuhan#prop	true
+ijo#adj	true
+ijo#n	true
+patera#n	true
+bertuah#adj	true
+arah#n	true
+ratus#num	true
+tanglung#n	true
+diam#adj	true
+angka#n	true
+جون#prop	true
+taji#n	true
+Memanjat#n	true
+lusa#n	true
+lusa#adv	true
+sepit#n	true
+ferum#n	true
+talium#n	true
+dewan#n	true
+putar#v	true
+jagat#n	true
+zigot#n	true
+sebelas#num	true
+klorin#n	true
+labah-labah#n	true
+sayuran#n	true
+tumbuhan#n	true
+tanaman#n	true
+sagar#n	true
+Mesir#prop	true
+Amerika Syarikat#prop	true
+teks#n	true
+bilion#num	true
+serta#conj	true
+serta#v	true
+seratus#num	true
+betul#adj	true
+قرون#n	true
+krim#n	true
+atur#v	true
+awak#pron	true
+dikau#pron	true
+tuanku#pron	true
+ابيض#adj	true
+ابيض#n	true
+dungu#adj	true
+jakal#n	true
+halau#v	true
+usir#v	true
+rendang#n	true
+piagam#n	true
+jendela#n	true
+ilah#n	true
+kerana#conj	true
+karim#adj	true
+gamat#n	true
+ayu#adj	true
+اين#pron	true
+empu#n	true
+soal#v	true
+lotong#adj	true
+lotong#n	true
+ماس#n	true
+يو#n	true
+اري#n	true
+buat#v	true
+tangkai#n	true
+tahil#n	true
+bahasa Inggeris#n	true
+bahasa Jepun#n	true
+bunyi hidup#n	true
+bunyi mati#n	true
+huruf hidup#n	true
+huruf mati#n	true
+konsonan#n	true
+televisyen#n	true
+komku#n	true
+sahaya#n	true
+sahaya#pron	true
+saudara-saudari#n	true
+saudara-saudari#pron	true
+kita orang#pron	true
+dia orang#pron	true
+kau orang#pron	true
+engkau orang#pron	true
+yang itu#pron	true
+yang ini#pron	true
+dari mana#adv	true
+jangan#adv	true
+mak cik#n	true
+bapa kandung#n	true
+ayah kandung#n	true
+bapa angkat#n	true
+ayah angkat#n	true
+ibu kandung#n	true
+emak kandung#n	true
+ibu angkat#n	true
+emak angkat#n	true
+mak angkat#n	true
+mak kandung#n	true
+kanak-kanak#n	true
+sepupu#n	true
+anak lelaki#n	true
+keturunan#n	true
+pokok keluarga#n	true
+pohon keluarga#n	true
+abah#n	true
+cucu perempuan#n	true
+cucu lelaki#n	true
+cucu laki-laki#n	true
+datuk#n	true
+nenek#n	true
+atuk#n	true
+cucu saudara#n	true
+cucu saudari#n	true
+datuk saudara#n	true
+nenek saudari#n	true
+cicit#n	true
+cicit perempuan#n	true
+cicit lelaki#n	true
+cicit laki-laki#n	true
+moyang#n	true
+ibu bapa datuk nenek#n	true
+moyang perempuan#n	true
+ibu datuk nenek#n	true
+moyang lelaki#n	true
+bapa datuk nenek#n	true
+anak lelaki cicit#n	true
+cucu lelaki cucu#n	true
+ibu moyang#n	true
+nenek datuk nenek#n	true
+datuk nenek#n	true
+bapa moyang#n	true
+datuk datuk nenek#n	true
+adik lelaki#n	true
+adik perempuan#n	true
+anak saudara#n	true
+anak saudari#n	true
+keluarga diraja#n	true
+ibu bapa#n	true
+emak ayah#n	true
+adik-beradik#n	true
+pakcik#n	true
+adik laki-laki#n	true
+anak laki-laki cicit#n	true
+cucu laki-laki cucu#n	true
+moyang laki-laki#n	true
+bapang#n	true
+bapanda#n	true
+bapai#n	true
+ayahanda#n	true
+akak#n	true
+kekanda#n	true
+kakang#n	true
+akang#n	true
+kangmas#n	true
+engko#n	true
+yayi#n	true
+ading#n	true
+adinda#n	true
+famili#n	true
+adelfogami#n	true
+orang Ainu#n	true
+orang Akan#n	true
+orang Aklan#n	true
+orang Melayu#n	true
+Melayu#prop	true
+Melayu#adj	true
+bahasa Malaysia#n	true
+bahasa Albania#prop	true
+bahasa Alemanik#prop	true
+bahasa Alemanik#adj	true
+bahasa Arab Algeria#prop	true
+bahasa Arab Sahara Algeria#prop	true
+bahasa Melayu Ambon#n	true
+bahasa Arab Andalusia#prop	true
+bahasa Latin Inggeris#n	true
+bahasa Norman Inggeris#n	true
+bahasa Inggeris Saxon#n	true
+bahasa Inggeris Kuno#n	true
+bahasa Armenia#prop	true
+bahasa Azeri#prop	true
+bahasa Azerbaijan#prop	true
+bahasa Arab Bahrain#prop	true
+bahasa Bali#prop	true
+bahasa Batak#prop	true
+bahasa Betawi#n	true
+bahasa Bosnia#prop	true
+bahasa Bulgaria#prop	true
+bahasa Kanton#n	true
+bahasa Kantonis#n	true
+bahasa Catalan#prop	true
+bahasa Cebuano#prop	true
+bahasa Chamorro#prop	true
+bahasa Latin Gereja#n	true
+bahasa Slav Gereja#n	true
+bahasa Arab Klasik#prop	true
+bahasa Arab al-Quran#prop	true
+bahasa Cina Klasik#prop	true
+bahasa Greece Klasik#n	true
+bahasa Yunani Klasik#n	true
+bahasa Latin Klasik#n	true
+bahasa Nahuatl Klasik#n	true
+bahasa Sanskrit Klasik#n	true
+bahasa Tupi Klasik#n	true
+bahasa Tupi Kuno#prop	true
+bahasa Arab Cyprus#prop	true
+bahasa Croatia#prop	true
+bahasa Czech#prop	true
+buyut#n	true
+buyut laki-laki#n	true
+buyut lelaki#n	true
+buyut perempuan#n	true
+cakawari#n	true
+cilawagi#n	true
+piut#n	true
+piut laki-laki#n	true
+piut lelaki#n	true
+piut perempuan#n	true
+oneng-oneng#n	true
+oneng-oneng laki-laki#n	true
+oneng-oneng lelaki#n	true
+oneng-oneng perempuan#n	true
+ابه#n	true
+kuyuk#n	true
+anjing jantan#n	true
+asu jantan#n	true
+asu betina#n	true
+anjing betina#n	true
+anjing Dalmatia#n	true
+huski#n	true
+anak asu#n	true
+anak anjing#n	true
+anjing pemburu#n	true
+anjing chow#n	true
+anjing corgi#n	true
+delima#n	true
+ampat#num	true
+tujoh#num	true
+kosong#num	true
+kosong#adj	true
+sifar#num	true
+dwi#num	true
+puluh#num	true
+puluh ribu#num	true
+ratus ribu#num	true
+puluh juta#num	true
+ratus juta#num	true
+dua belas#num	true
+tiga belas#num	true
+telu belas#num	true
+empat belas#num	true
+lima belas#num	true
+enam belas#num	true
+tujuh belas#num	true
+pitu belas#num	true
+lapan belas#num	true
+delapan belas#num	true
+sembilan belas#num	true
+dua puluh#num	true
+satu puluh#num	true
+satu belas#num	true
+seribu juta#num	true
+sentilion#num	true
+desilion#num	true
+rumah asu#n	true
+rumah anjing#n	true
+daging asu#n	true
+daging anjing#n	true
+anjing fox terrier#n	true
+iodin#n	true
+segi tiga#n	true
+segi telu#n	true
+segi empat#n	true
+kuyuk-kuyuk#n	true
+asu-asu#n	true
+anjing-anjing#n	true
+sawah#n	true
+sawah padi#n	true
+Bumi#n	true
+Jagat#n	true
+Bentala#n	true
+Buana#n	true
+zirafah#n	true
+kaedah#n	true
+Sepanyol#prop	true
+Sepanyol#adj	true
+bahasa Perancis-Inggeris#prop	true
+entah-entah#n	true
+onang-aning#n	true
+pensel#n	true
+leher#n	true
+ikrar#n	true
+kucing batu#n	true
+kucing liar Afrika#n	true
+kucing liar Asia#n	true
+kucing Andes#n	true
+kucing Borneo#n	true
+kucing merah Borneo#n	true
+kucing merah#n	true
+kucing padang pasir India#n	true
+kucing banjaran Andes#n	true
+kucing padang pasir#n	true
+kucing hutan#n	true
+anak kucing#n	true
+anjing hutan#n	true
+babi rusa#n	true
+mamalia#n	true
+ardvark#n	true
+kerbau Afrika#n	true
+tenggiling#n	true
+antelop#n	true
+tembadau#n	true
+banting#n	true
+kucing tulap#n	true
+kucing emas#n	true
+kucing ikan#n	true
+kucing dahan#n	true
+جم#n	true
+lapangan terbang#n	true
+padang terbang#n	true
+ilmu alam#n	true
+zon pengudaraan#n	true
+batang#n	true
+pawaka#n	true
+bayu#n	true
+purnama#n	true
+cendera#n	true
+baharu#adj	true
+congek#adj	true
+kabus#n	true
+picing#v	true
+dahan#n	true
+habuk#n	true
+Afrika Selatan#prop	true
+Republik Afrika Tengah#prop	true
+Arab Saudi#prop	true
+aba-daba#n	true
+bengawan#n	true
+jauh#adj	true
+betis#n	true
+payung#n	true
+berau#adj	true
+adik-adik#n	true
+atap-atap#n	true
+babi-babi#n	true
+alir#v	true
+alir#n	true
+jikalau#conj	true
+gedang#adj	true
+selapan#num	true
+gangsa#n	true
+renang#v	true
+danta#n	true
+tubuh#n	true
+pusar#n	true
+kuping#n	true
+kerinjal#n	true
+buah pinggang#n	true
+tuhut#n	true
+gigi susu#n	true
+benak#n	true
+benak#adj	true
+tunggal#adj	true
+tunggal#num	true
+sapta#num	true
+belakang#n	true
+belok#v	true
+kumuh#adj	true
+nyawa#n	true
+benuang#n	true
+muntah#v	true
+ludah#v	true
+kunyah#v	true
+mamah#v	true
+hisap#v	true
+sedut#v	true
+yaum#n	true
+biram#adj	true
+biram#n	true
+lukah#n	true
+hitung#v	true
+itam#adj	true
+itam#n	true
+puteh#adj	true
+puteh#n	true
+mirah#adj	true
+mirah#n	true
+beleng#v	true
+kuap#v	true
+inap#v	true
+inep#v	true
+embun#n	true
+butuh#n	true
+gerigi#n	true
+ajeh#pron	true
+manira#pron	true
+ingsun#pron	true
+cemara#n	true
+pacal#pron	true
+kawula#n	true
+kawula#pron	true
+lebu#n	true
+lebu#pron	true
+titiang#pron	true
+abiad#adj	true
+abiad#n	true
+abyad#adj	true
+abyad#n	true
+ڤوتيه#adj	true
+ڤوتيه#n	true
+هيتم#adj	true
+هيتم#n	true
+aswad#adj	true
+aswad#n	true
+لوتوڠ#adj	true
+لوتوڠ#n	true
+ميره#adj	true
+ميره#n	true
+بيرم#adj	true
+بيرم#n	true
+برما#adj	true
+برما#n	true
+keadaan#n	true
+pustaka#n	true
+bomoh#n	true
+cepua#n	true
+sepua#n	true
+dekak-dekak#n	true
+berbulu#adj	true
+بندر سري بڬاوان#prop	true
+buloh#n	true
+tenturun#n	true
+benturung#n	true
+kasuari#n	true
+دوريان#n	true
+gingam#n	true
+genggang#n	true
+getah perca#n	true
+getah taban#n	true
+kekabu#n	true
+ipuh#n	true
+ipoh#n	true
+teripang#n	true
+timun laut#n	true
+ĕmpat#num	true
+ămpat#num	true
+چاتور#num	true
+چاتور#n	true
+ڤت#num	true
+امڤت#num	true
+انم#num	true
+ĕnam#num	true
+ănam#num	true
+bawa#v	true
+sepang#n	true
+mentari#prop	true
+suria#prop	true
+rawi#prop	true
+syamsi#prop	true
+benih#n	true
+ماري#v	true
+ماري#int	true
+kuruh#n	true
+hayam#n	true
+birah#n	true
+توهن#n	true
+توهن#prop	true
+bunga raya#n	true
+worawari#n	true
+ijuk#n	true
+Ijok#prop	true
+ijok#n	true
+secang#n	true
+botak#adj	true
+butak#adj	true
+ubat#n	true
+ukur#v	true
+Alor Star#prop	true
+salor#v	true
+Sungai Ujong#prop	true
+Fu Yong#prop	true
+Melaka#prop	true
+bahru#adj	true
+hujung#adj	true
+hujung#n	true
+hujong#adj	true
+hujong#n	true
+هوجوڠ#adj	true
+هوجوڠ#n	true
+ujung#adj	true
+ujung#n	true
+اوجوڠ#adj	true
+اوجوڠ#n	true
+ujong#adj	true
+ujong#n	true
+bharu#adj	true
+Prang Besar#prop	true
+kuching#n	true
+pirak#n	true
+Pulau Pinang#prop	true
+Jesselton#prop	true
+Langkawi#prop	true
+Arau#prop	true
+Changlun#prop	true
+Jitra#prop	true
+nyonya#n	true
+ديوا#n	true
+dewi#n	true
+ديوي#n	true
+gelak#v	true
+کوسوڠ#num	true
+نول#num	true
+نيهيل#num	true
+ساتو#num	true
+ساتو#n	true
+ساتو#adj	true
+ĕsă#num	true
+sĕ#num	true
+اسا#num	true
+اسا#n	true
+اسا#v	true
+توڠݢل#adj	true
+توڠݢل#num	true
+ekă#num	true
+ايک#num	true
+wahid#num	true
+احد#num	true
+احد#prop	true
+Ahad#prop	true
+duă#num	true
+دوا#num	true
+دوي#num	true
+tigă#num	true
+تيݢ#num	true
+tĕlu#num	true
+تلو#num	true
+تري#num	true
+chator#num	true
+chator#n	true
+dua ribu#num	true
+seribu#num	true
+satu ribu#num	true
+trilion#num	true
+satu ratus#num	true
+dua ratus#num	true
+tiga ratus#num	true
+telu ratus#num	true
+empat ratus#num	true
+lima ratus#num	true
+enam ratus#num	true
+tujuh ratus#num	true
+pitu ratus#num	true
+lapan ratus#num	true
+sembilan ratus#num	true
+tiga puluh#num	true
+telu puluh#num	true
+empat puluh#num	true
+lima puluh#num	true
+enam puluh#num	true
+tujuh puluh#num	true
+pitu puluh#num	true
+lapan puluh#num	true
+sembilan puluh#num	true
+dua puluh satu#num	true
+dua puluh dua#num	true
+dua puluh tiga#num	true
+dua puluh telu#num	true
+dua puluh empat#num	true
+dua puluh lima#num	true
+dua puluh enam#num	true
+dua puluh tujuh#num	true
+dua puluh pitu#num	true
+dua puluh lapan#num	true
+dua puluh sembilan#num	true
+limă#num	true
+dĕlimă#n	true
+دليما#n	true
+ليم#num	true
+panchă#num	true
+ڤنچا#num	true
+توجوه#num	true
+ڤيتو#num	true
+سڤتا#num	true
+saptă#num	true
+ڤولوه#num	true
+dasa#num	true
+داسا#num	true
+dasă#num	true
+dĕlapan#num	true
+دلاڤن#num	true
+لاڤن#num	true
+sĕlapan#num	true
+سلاڤن#num	true
+استا#num	true
+astă#num	true
+سمبيلن#num	true
+sĕmbilan#num	true
+ناوا#num	true
+nawă#num	true
+سڤولوه#num	true
+ekadasa#num	true
+ايکداسا#num	true
+ekădasă#num	true
+puloh#num	true
+ساتو ڤولوه#num	true
+satu puloh#num	true
+sapuloh#num	true
+sĕpuloh#num	true
+săpuloh#num	true
+sepuluh satu#num	true
+satu puluh satu#num	true
+sepuluh dua#num	true
+satu puluh dua#num	true
+sepuluh tiga#num	true
+sepuluh telu#num	true
+satu puluh tiga#num	true
+satu puluh telu#num	true
+sembilan likur#num	true
+lapan likur#num	true
+likur#num	true
+enam likur#num	true
+lima likur#num	true
+empat likur#num	true
+dua likur#num	true
+selikur#num	true
+satu likur#num	true
+tujuh likur#num	true
+pitu likur#num	true
+tiga likur#num	true
+telu likur#num	true
+بلس#num	true
+sepuluh empat#num	true
+satu puluh empat#num	true
+sepuluh enam#num	true
+satu puluh enam#num	true
+sepuluh sembilan#num	true
+satu puluh sembilan#num	true
+sepuluh lapan#num	true
+satu puluh lapan#num	true
+sepuluh delapan#num	true
+satu puluh delapan#num	true
+sepuluh lima#num	true
+satu puluh lima#num	true
+sepuluh tujuh#num	true
+satu puluh tujuh#num	true
+sepuluh pitu#num	true
+satu puluh pitu#num	true
+کويوق#n	true
+اسو#n	true
+انجيڠ#n	true
+اوتارا#n	true
+اوتارا#adj	true
+utară#n	true
+utară#adj	true
+اتارا#n	true
+اتارا#adj	true
+اوترا#n	true
+اوترا#adj	true
+anjing serigala Rusia#n	true
+sejuta#num	true
+satu juta#num	true
+sepuluh ribu#num	true
+satu puluh ribu#num	true
+seratus ribu#num	true
+satu ratus ribu#num	true
+sepuluh juta#num	true
+satu puluh juta#num	true
+seratus juta#num	true
+satu ratus juta#num	true
+ribu juta#num	true
+sebilion#num	true
+satu bilion#num	true
+satu ribu juta#num	true
+setrilion#num	true
+satu trilion#num	true
+adoi#int	true
+waduh#int	true
+angkat#v	true
+pangkat#n	true
+alih#v	true
+apa-apa#pron	true
+galium#n	true
+tupai#n	true
+توڤاي#n	true
+توڤي#n	true
+توڤي#n	true
+باجيڠ#n	true
+risau#v	true
+ريساو#v	true
+ريسو#v	true
+سوڠاي#n	true
+سوڠي#n	true
+ݢولي#n	true
+وقتو#n	true
+tengah hari#n	true
+تڠه هاري#n	true
+tengari#n	true
+تڠاري#n	true
+ڤتڠ#n	true
+سوري#n	true
+سوري#n	true
+tahunan#adj	true
+تاهونن#adj	true
+pepuah#adj	true
+ارو#n	true
+رو#n	true
+چمارا#n	true
+لوق#adj	true
+هابوق#n	true
+دبو#n	true
+دبو#pron	true
+ابو#n	true
+هالاو#v	true
+الور#v	true
+الور#n	true
+الير#v	true
+الير#n	true
+سالور#v	true
+سالير#v	true
+ambang#v	true
+امبڠ#v	true
+hantar#v	true
+هنتر#v	true
+hanyir#adj	true
+هاڽير#adj	true
+اتڤ#n	true
+bumbung#n	true
+بومبوڠ#n	true
+senyap#adj	true
+ديام#adj	true
+سڽڤ#adj	true
+musang turun#n	true
+kapur#n	true
+burung kakaktua#n	true
+gambir#n	true
+salang#n	true
+بوليه#v	true
+bulih#v	true
+بيناتڠ#n	true
+بيناتڠ#adj	true
+بوروڠ#n	true
+بوتق#adj	true
+اوتق#n	true
+بنق#n	true
+panggil#v	true
+ڤڠݢيل#v	true
+bongsu#adj	true
+بوڠسو#adj	true
+bungsu#adj	true
+duodesilion#num	true
+lapan ribu#num	true
+lapan puluh satu#num	true
+lapan puluh dua#num	true
+lapan puluh tiga#num	true
+lapan puluh empat#num	true
+lapan puluh lima#num	true
+lapan puluh enam#num	true
+lapan puluh tujuh#num	true
+lapan puluh lapan#num	true
+lapan puluh sembilan#num	true
+seribu seratus#num	true
+sebelas ribu#num	true
+seratus sepuluh#num	true
+seribu lima ratus#num	true
+seribu lapan ratus#num	true
+lima puluh satu#num	true
+lima puluh dua#num	true
+lima puluh tiga#num	true
+lima puluh empat#num	true
+lima puluh lima#num	true
+lima puluh enam#num	true
+lima puluh tujuh#num	true
+lima puluh lapan#num	true
+lima puluh sembilan#num	true
+lima ribu#num	true
+empat puluh satu#num	true
+empat puluh dua#num	true
+empat puluh tiga#num	true
+empat puluh empat#num	true
+empat puluh lima#num	true
+empat puluh enam#num	true
+empat puluh tujuh#num	true
+empat puluh lapan#num	true
+empat puluh sembilan#num	true
+empat ribu#num	true
+seribu empat ratus#num	true
+googolpleks#num	true
+setengah dozen#num	true
+sembilan ribu#num	true
+sembilan ribu sembilan ratus sembilan puluh sembilan#num	true
+nonilion#num	true
+novemdesilion#num	true
+sembilan puluh satu#num	true
+sembilan puluh dua#num	true
+sembilan puluh tiga#num	true
+sembilan puluh empat#num	true
+sembilan puluh lima#num	true
+sembilan puluh enam#num	true
+sembilan puluh tujuh#num	true
+sembilan puluh lapan#num	true
+sembilan puluh sembilan#num	true
+oktilion#num	true
+oktodesilion#num	true
+seratus satu#num	true
+seratus dua#num	true
+seratus tiga#num	true
+seratus empat#num	true
+seratus lima#num	true
+seratus enam#num	true
+seratus tujuh#num	true
+seratus lapan#num	true
+seratus sembilan#num	true
+kuadrilion#num	true
+kuintilion#num	true
+kuatordesilion#num	true
+kuindesilion#num	true
+seribu tujuh ratus#num	true
+tujuh ribu#num	true
+tujuh ratus lima puluh#num	true
+septilion#num	true
+septendesilion#num	true
+tujuh puluh satu#num	true
+tujuh puluh dua#num	true
+tujuh puluh tiga#num	true
+tujuh puluh empat#num	true
+tujuh puluh lima#num	true
+tujuh puluh enam#num	true
+tujuh puluh tujuh#num	true
+tujuh puluh lapan#num	true
+tujuh puluh sembilan#num	true
+enam puluh satu#num	true
+enam puluh dua#num	true
+enam puluh tiga#num	true
+enam puluh empat#num	true
+enam puluh lima#num	true
+enam puluh enam#num	true
+enam puluh tujuh#num	true
+enam puluh lapan#num	true
+enam puluh sembilan#num	true
+tiga puluh satu#num	true
+tiga puluh dua#num	true
+tiga puluh tiga#num	true
+tiga puluh empat#num	true
+tiga puluh lima#num	true
+tiga puluh enam#num	true
+tiga puluh tujuh#num	true
+tiga puluh lapan#num	true
+tiga puluh sembilan#num	true
+sekstilion#num	true
+undesilion#num	true
+tredesilion#num	true
+seksdesilion#num	true
+vigintilion#num	true
+unvigintilion#num	true
+tiga ribu#num	true
+enam ribu#num	true
+puluh duotrigintilion#num	true
+seribu dua ratus#num	true
+seribu tiga ratus#num	true
+seribu enam ratus#num	true
+seribu sembilan ratus#num	true
+seribu satu#num	true
+seratus dua puluh#num	true
+seratus tiga puluh#num	true
+seratus empat puluh#num	true
+seratus lima puluh#num	true
+seratus enam puluh#num	true
+seratus tujuh puluh#num	true
+seratus lapan puluh#num	true
+seratus sembilan puluh#num	true
+dua ribu satu#num	true
+dua ribu seratus#num	true
+dua ribu dua ratus#num	true
+dua ribu tiga ratus#num	true
+dua ribu empat ratus#num	true
+dua ribu lima ratus#num	true
+dua ribu enam ratus#num	true
+dua ribu tujuh ratus#num	true
+dua ribu lapan ratus#num	true
+dua ribu sembilan ratus#num	true
+Muharam#prop	true
+kelabu#adj	true
+kelabu#n	true
+tepat#adj	true
+lepa#adj	true
+cuai#adj	true
+lalai#adj	true
+ganjil#adj	true
+pelik#adj	true
+tak organik#adj	true
+bangkrap#adj	true
+muflis#adj	true
+bodoh#adj	true
+baghal#n	true
+baghal#adj	true
+bahlul#adj	true
+bangang#adj	true
+bengap#adj	true
+bingung#adj	true
+bongak#adj	true
+bongok#adj	true
+congong#adj	true
+dogol#adj	true
+dongok#adj	true
+tambah#v	true
+tamba#v	true
+puluh bilion#num	true
+ratus bilion#num	true
+puluh trilion#num	true
+ratus trilion#num	true
+puluh kuadrilion#num	true
+ratus kuadrilion#num	true
+rentak#n	true
+lima ratus tiga puluh dua#num	true
+satu ribu satu#num	true
+satu ribu seratus#num	true
+راتوس#num	true
+ريبو#num	true
+ساتو راتوس#num	true
+سراتوس#num	true
+ساتو ريبو#num	true
+سريبو#num	true
+اݢر#conj	true
+سوڤايا#conj	true
+بارو#conj	true
+بارو#adj	true
+بهارو#adj	true
+بهرو#adj	true
+اکو#pron	true
+داکو#pron	true
+Kelang#prop	true
+encik#n	true
+anak mata#n	true
+anak panah#n	true
+ayut#v	true
+ayuk#v	true
+ڤولوه ريبو#num	true
+لقسا#n	true
+لقسا#num	true
+dua juta#num	true
+tiga juta#num	true
+empat juta#num	true
+lima juta#num	true
+enam juta#num	true
+tujuh juta#num	true
+lapan juta#num	true
+sembilan juta#num	true
+راتوس ريبو#num	true
+کتي#num	true
+جوتا#num	true
+ڤولوه جوتا#num	true
+راتوس جوتا#num	true
+بيليون#num	true
+ريبو جوتا#num	true
+ديسيليون#num	true
+تريليون#num	true
+نونيليون#num	true
+کوادريليون#num	true
+کوينتيليون#num	true
+سيڤتيليون#num	true
+اوکتيليون#num	true
+سيکستيليون#num	true
+ڤولوه بيليون#num	true
+راتوس بيليون#num	true
+ڤولوه تريليون#num	true
+راتوس تريليون#num	true
+ڤولوه کوادريليون#num	true
+راتوس کوادريليون#num	true
+سمبيلن ريبو سمبيلن راتوس سمبيلن ڤولوه سمبيلن#num	true
+اونديسيليون#num	true
+دووديسيليون#num	true
+تريديسيليون#num	true
+کواتورديسيليون#num	true
+کوينديسيليون#num	true
+سيکسديسيليون#num	true
+سيڤتينديسيليون#num	true
+اوکتوديسيليون#num	true
+نوۏيمديسيليون#num	true
+ۏيݢينتيليون#num	true
+اونۏيݢينتيليون#num	true
+ڤولوه دووتريݢينتيليون#num	true
+ݢوݢول#num	true
+ݢوݢولڤليکس#num	true
+siapa-siapa#pron	true
+sesiapa#pron	true
+mana-mana#adv	true
+mana-mana#pron	true
+bila-bila#adv	true
+اڤ٢#pron	true
+مان٢#adv	true
+مان٢#pron	true
+سياڤا٢#pron	true
+سسياڤا#pron	true
+بيلا٢#adv	true
+ايت#pron	true
+انق#n	true
+چوچو#n	true
+چيچيت#n	true
+ڤيوت#n	true
+اونيڠ٢#n	true
+انته٢#n	true
+اونڠ-انيڠ#n	true
+keldai#n	true
+himar#n	true
+cakera#n	true
+kedai#n	true
+garpu#n	true
+bebiri#n	true
+kambing bebiri#n	true
+kebun binatang#n	true
+taman haiwan#n	true
+pauh#n	true
+agak#v	true
+اديق#n	true
+ديق#n	true
+اديڠ#n	true
+اديندا#n	true
+ديندا#n	true
+يايي#n	true
+لبو#n	true
+لبو#pron	true
+ادوه#int	true
+ادوي#int	true
+وادوه#int	true
+اءير#n	true
+اجق#v	true
+اکر#n	true
+perigi#n	true
+اليه#v	true
+air bah#n	true
+اءير به#n	true
+air mata#n	true
+اءير مات#n	true
+انق مات#n	true
+انق ڤانه#n	true
+ݢميلن#n	true
+کوالا لومڤور#prop	true
+بمبو#n	true
+بولوه#n	true
+اءور#n	true
+دامر#n	true
+سالڠ#n	true
+دويوڠ#n	true
+babi duyung#n	true
+ikan duyung#n	true
+ايکن دويوڠ#n	true
+بابي دويوڠ#n	true
+دوݢوڠ#n	true
+کامڤوڠ#n	true
+کامڤوڠ#adj	true
+کاسواري#n	true
+سواري#n	true
+ماکن#v	true
+تربڠ#v	true
+کومبڠ#n	true
+debak#n	true
+دبق#n	true
+lebak#n	true
+لبق#n	true
+سومڤيت#n	true
+سومڤيت#n	true
+timbak#v	true
+تيمبق#v	true
+bebat#n	true
+ببت#n	true
+چوبيت#v	true
+تنتڠ#pre	true
+darihal#pre	true
+دريحال#pre	true
+mengenai#pre	true
+مڠناءي#pre	true
+berkaitan dengan#pre	true
+برکاءيتن دڠن#pre	true
+berkenaan dengan#pre	true
+برکناءن دڠن#pre	true
+براد#v	true
+lantanum#n	true
+انچيق#n	true
+ڤوڤيل#n	true
+ارنب#n	true
+کلداي#n	true
+syamsu#prop	true
+ماتاهاري#prop	true
+منتاري#prop	true
+راوي#prop	true
+tingkap#n	true
+تيڠکڤ#n	true
+جنديلا#n	true
+loteng#n	true
+لوتيڠ#n	true
+تڠݢ#n	true
+saluran#n	true
+سالورن#n	true
+ڤينتو#n	true
+Burung Lang Monyet#n	true
+keempat#adj	true
+کأمڤت#adj	true
+perempat#n	true
+ڤرامڤت#n	true
+اڠين#n	true
+بايو#n	true
+ڤاوان#n	true
+اڠکت#v	true
+اڤ#pron	true
+ڤواس#adj	true
+هاتور#v	true
+اتور#v	true
+اوتن#n	true
+هوتن#n	true
+هاري#n	true
+اباکوس#n	true
+ڤريݢي#n	true
+padang#n	true
+ڤادڠ#n	true
+اڤي#n	true
+اروس#n	true
+اسين#adj	true
+ماسين#adj	true
+sembur#v	true
+سمبور#v	true
+ميڠݢو#n	true
+ميڠݢو#prop	true
+Isnin#prop	true
+اثنين#prop	true
+ثنين#prop	true
+ثلاث#prop	true
+Senayan#prop	true
+رابو#prop	true
+Arbaa#prop	true
+اربع#prop	true
+خميس#prop	true
+جمعة#prop	true
+سبت#prop	true
+دتيق#n	true
+مينيت#n	true
+ميݢ#n	true
+هايم#n	true
+ايم#n	true
+ايوت#v	true
+ايوق#v	true
+بابي#n	true
+Haron#prop	true
+Berahim#prop	true
+براهیم#prop	true
+Danial#prop	true
+دانيال#prop	true
+Daud#prop	true
+Daut#prop	true
+داءوت#prop	true
+Ayu#prop	true
+ايو#adj	true
+ايو#prop	true
+tidak organik#adj	true
+organik#adj	true
+باݢوس#adj	true
+باݢوس#prop	true
+Bagus#prop	true
+اݢوس#prop	true
+کوڤي#n	true
+چڠلون#prop	true
+فو يوڠ#prop	true
+کيلت#n	true
+کيلت#adj	true
+امبون#n	true
+ڤلاڠي#n	true
+تنجوڠ#n	true
+darat#n	true
+darat#v	true
+دارت#n	true
+دارت#v	true
+busut#n	true
+بوسوت#n	true
+اودڠ#n	true
+Jawi#prop	true
+جاوي#prop	true
+باسه#adj	true
+تتس#v	true
+Rumi#prop	true
+رومي#prop	true
+تاجي#n	true
+balung#n	true
+بالوڠ#n	true
+ڤروت#n	true
+kerang#n	true
+کرڠ#n	true
+لالت#n	true
+رومه#n	true
+بيليق#n	true
+lantai#n	true
+لنتاي#n	true
+ڤاواک#n	true
+nyalaan#n	true
+ڽالاءن#n	true
+lintah#n	true
+لينته#n	true
+ڽاموق#n	true
+gegat#n	true
+ݢݢت#n	true
+اݢس#n	true
+kepah#n	true
+کڤه#n	true
+sotong#n	true
+سوتوڠ#n	true
+ڤڽو#n	true
+بونتل#n	true
+ايکن#n	true
+هاريماو#n	true
+ماچن#n	true
+کللاور#n	true
+کلاور#n	true
+اولر#n	true
+لندق#n	true
+برڠ٢#n	true
+memerang#n	true
+ممرڠ#n	true
+memberang#n	true
+ممبرڠ#n	true
+anjing air#n	true
+انجيڠ اءير#n	true
+biawak#n	true
+بياوق#n	true
+helang#n	true
+هلڠ#n	true
+ݢاݢق#n	true
+مانوق#n	true
+hempedal#n	true
+همڤدل#n	true
+rusuk#n	true
+روسوق#n	true
+ڤها#n	true
+tengkuk#n	true
+تڠکوق#n	true
+bersin#v	true
+برسين#v	true
+ڤيڤي#n	true
+juling#adj	true
+جوليڠ#adj	true
+kenyang#adj	true
+کڽڠ#adj	true
+لاڤر#adj	true
+کنيڠ#n	true
+gonggong#v	true
+ݢوڠݢوڠ#v	true
+سالق#n	true
+سالق#v	true
+kuning telur#n	true
+کونيڠ تلور#n	true
+bengkarung#n	true
+بڠکاروڠ#n	true
+cengkarung#n	true
+چڠکاروڠ#n	true
+مڠکاروڠ#n	true
+mengkarung#n	true
+بلونچس#n	true
+ulat bulu#n	true
+اولت بولو#n	true
+هياڠ#n	true
+hiang#n	true
+يڠ#n	true
+يڠ#conj	true
+يڠ#pron	true
+yang-yang#n	true
+يڠ٢#n	true
+ادي#n	true
+hempedu#n	true
+همڤدو#n	true
+اولت#n	true
+mengabu#v	true
+مڠابو#v	true
+beradik#adj	true
+براديق#adj	true
+mengaduh#v	true
+مڠادوه#v	true
+arkib#n	true
+نوسا#n	true
+بولن#n	true
+کورا٢#n	true
+هيو#n	true
+بابي هوتن#n	true
+buang#v	true
+برواڠ#n	true
+gemuk#adj	true
+ݢموق#adj	true
+ڤارو٢#n	true
+توبوه#n	true
+تولي#adj	true
+bulu mata#n	true
+بولو مات#n	true
+anak merah#n	true
+انق ميره#n	true
+jijik#adj	true
+جيجيق#adj	true
+cicik#adj	true
+چيچيق#adj	true
+jarum#n	true
+جاروم#n	true
+masam#adj	true
+penyerap#n	true
+berdaya serap#adj	true
+absorptif#adj	true
+rangkaian#n	true
+jaringan#n	true
+zat lemas#n	true
+teropong halus#n	true
+cecair#n	true
+cairan#n	true
+cerpen#n	true
+cerita pendek#n	true
+tadika#n	true
+tabika#n	true
+taman didikan kanak-kanak#n	true
+taman bimbingan kanak-kanak#n	true
+kugiran#n	true
+kumpulan gitar rancak#n	true
+purata#n	true
+pukul rata#n	true
+rumah sakit#n	true
+kaji tugas organ#n	true
+اڠسا#n	true
+بنجير#n	true
+بنتل#n	true
+برواڠ قطب#n	true
+بوتول#n	true
+نراک#prop	true
+kecuali#pre	true
+batu kawi#n	true
+kromium#n	true
+zat kapur#n	true
+zat pembakar#n	true
+fosforus#n	true
+belirang#n	true
+بليرڠ#n	true
+سولفور#n	true
+بسي#n	true
+فيروم#n	true
+timah sari#n	true
+ayan#n	true
+paladium#n	true
+ارݢينتوم#n	true
+ڤيرق#n	true
+ڤيرق#prop	true
+welirang#n	true
+ويليرڠ#n	true
+melirang#n	true
+مليرڠ#n	true
+wayu#n	true
+وايو#n	true
+توها#adj	true
+ݢولا#n	true
+syakar#n	true
+syagar#n	true
+ساکر#n	true
+شاکر#n	true
+ساݢر#n	true
+شاݢر#n	true
+لاءوتن#n	true
+jeladeri#n	true
+جلادري#n	true
+samudera#n	true
+سمودرا#n	true
+semedera#n	true
+سمدرا#n	true
+سݢارا#n	true
+Lautan Teduh#prop	true
+Lautan Pasifik#prop	true
+satwa#n	true
+satwa#adj	true
+ستوا#n	true
+ستوا#adj	true
+داءون#n	true
+ڤاترا#n	true
+ڤاسير#n	true
+رامل#n	true
+بوکيت#n	true
+stanum#n	true
+ستانوم#n	true
+تيمه#n	true
+timah#n	true
+tempat#n	true
+utama#adj	true
+tarik#v	true
+ايسوق#n	true
+ايسوق#adv	true
+بيسوق#n	true
+بيسوق#adv	true
+لوسا#n	true
+لوسا#adv	true
+beresok#n	true
+beresok#adv	true
+برايسوق#n	true
+برايسوق#adv	true
+langkat#n	true
+langkat#adv	true
+لڠکت#n	true
+لڠکت#adv	true
+tulat#n	true
+tulat#adv	true
+تولت#n	true
+تولت#adv	true
+tubin#n	true
+tubin#adv	true
+توبين#n	true
+توبين#adv	true
+tonggeng#n	true
+tonggeng#adv	true
+توڠݢيڠ#n	true
+توڠݢيڠ#adv	true
+تلنجڠ#adj	true
+bunyi#n	true
+بوڽي#n	true
+bilangan#n	true
+بيلڠن#n	true
+لاري#v	true
+چاڠکير#n	true
+cawan#n	true
+چاون#n	true
+چت#n	true
+cangkul#n	true
+چڠکول#n	true
+بڠکو#n	true
+bakul#n	true
+باکول#n	true
+اسڤ#n	true
+jirim#n	true
+جيريم#n	true
+infrabunyi#n	true
+اينفرابوڽي#n	true
+tahun cahaya#n	true
+تاهون چهاي#n	true
+رودا#n	true
+tuala#n	true
+توالا#n	true
+tangki#n	true
+تڠکي#n	true
+telurium#n	true
+انجيڠ هوتن#n	true
+anjing ajak#n	true
+انجيڠ اجق#n	true
+anjing geladak#n	true
+انجيڠ ݢلادق#n	true
+anjing arau#n	true
+انجيڠ اراو#n	true
+anjing koreng#n	true
+انجيڠ کوريڠ#n	true
+anjing kumbang#n	true
+anjing lotong#n	true
+انجيڠ کومبڠ#n	true
+انجيڠ لوتوڠ#n	true
+anjing ladang#n	true
+انجيڠ لادڠ#n	true
+انجيڠ لاءوت#n	true
+kilang#n	true
+pabrik#n	true
+nenek moyang#n	true
+leluhur#n	true
+emak saudara#n	true
+امق ساودارا#n	true
+مق چيق#n	true
+تنتى#n	true
+اديق للاکي#n	true
+اديق لاکي٢#n	true
+تيليۏيشن#n	true
+تيکنيک#n	true
+حروف#n	true
+توءيل#n	true
+ترين#n	true
+kereta api#n	true
+کريتا اڤي#n	true
+keretapi#n	true
+کريتاڤي#n	true
+داتو#n	true
+واڤ#n	true
+uban#n	true
+اوبن#n	true
+anak lidah#n	true
+انق ليده#n	true
+sejarah#n	true
+daripada#pre	true
+تيمه ساري#n	true
+ايان#n	true
+زيڠک#n	true
+سيڠ#n	true
+مق#n	true
+اومق#n	true
+امق#n	true
+اينا#n	true
+utus#v	true
+اوتوس#v	true
+usung#v	true
+اوسوڠ#v	true
+اوسير#v	true
+اݢق#v	true
+iterbium#n	true
+pelatinam#n	true
+kencana#n	true
+کنچان#n	true
+اءوروم#n	true
+امس#n	true
+رقسا#n	true
+merkuri#n	true
+مرکوري#n	true
+ڤيرق چرݢس#n	true
+perak cergas#n	true
+timbel#n	true
+تيمبل#n	true
+ڤلومبوم#n	true
+timah hitam#n	true
+تيمه هيتم#n	true
+timah wurung#n	true
+تيمه ووروڠ#n	true
+بيسموت#n	true
+astatin#n	true
+fransium#n	true
+amerisium#n	true
+kurium#n	true
+lawrensium#n	true
+ruterfordium#n	true
+kopernisium#n	true
+usik#v	true
+اوسيق#v	true
+serap#n	true
+سرڤ#n	true
+هيسڤ#v	true
+ulang#v	true
+اولڠ#v	true
+لوموت#n	true
+gelenggang#n	true
+gelinggang#n	true
+ݢليڠݢڠ#n	true
+daun kupang#n	true
+داءون کوڤڠ#n	true
+daun kurap#n	true
+داءون کورڤ#n	true
+اوبي#n	true
+ڤويو#n	true
+zink oksida#n	true
+kalamin#n	true
+zink kromat#n	true
+zink klorida#n	true
+zink karbonat#n	true
+zink hidroksida#n	true
+zink fosfida#n	true
+loyang#n	true
+لويڠ#n	true
+kuningan#n	true
+کونيڠن#n	true
+tembaga kuning#n	true
+تمباݢ کونيڠ#n	true
+revolusi#n	true
+situasi#n	true
+ذوريت#n	true
+duriat#n	true
+دوريت#n	true
+زهره#prop	true
+Zuhrat#prop	true
+Zuhara#prop	true
+زهراء#prop	true
+Zuharah#prop	true
+زيلوفون#n	true
+zilofon#n	true
+gincu#n	true
+lipstik#n	true
+pertama#adj	true
+harimau kumbang#n	true
+هاريماو کومبڠ#n	true
+harimau peturun#n	true
+هاريماو ڤتورون#n	true
+harimau dahan#n	true
+هاريماو داهن#n	true
+harimau akar#n	true
+هاريماو اکر#n	true
+harimau bintang#n	true
+هاريماو بينتڠ#n	true
+harimau belang#n	true
+هاريماو بلڠ#n	true
+harimau dandi#n	true
+هاريماو دندي#n	true
+harimau loreng#n	true
+هاريماو لوريڠ#n	true
+harimau terung kasau#n	true
+هاريماو تروڠ کاساو#n	true
+rimau#n	true
+maung#n	true
+ريماو#n	true
+ماءوڠ#n	true
+سيڠا#n	true
+جاݢوار#n	true
+macan loreng#n	true
+ماچن لوريڠ#n	true
+ماچن توتول#n	true
+macan tutul#n	true
+pak belang#n	true
+ڤق بلڠ#n	

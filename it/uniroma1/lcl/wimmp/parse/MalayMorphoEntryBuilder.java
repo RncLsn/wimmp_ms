@@ -2,14 +2,14 @@ package it.uniroma1.lcl.wimmp.parse;
 
 import it.uniroma1.lcl.wimmp.*;
 import it.uniroma1.lcl.wimmp.parse.*;
-import it.uniroma1.lcl.wimmp.parse.ms.morpho.*;
+import it.uniroma1.lcl.wimmp.parse.morpho.*;
 import java.util.*;
 import java.util.regex.*;
 import java.lang.reflect.*;
 import java.lang.NoSuchMethodException;
 
 public class MalayMorphoEntryBuilder {
-    /*
+
     private int countAdjective = 0;
     private int countAdverb = 0;
     private int countConjunction = 0;
@@ -41,7 +41,7 @@ public class MalayMorphoEntryBuilder {
         setPos.add("verb");
     }
     
-    private static final Pattern patternEntry = Pattern.compile("<estonian>([\\s\\S]+)</estonian>");
+    private static final Pattern patternEntry = Pattern.compile("<malay>([\\s\\S]+)</malay>");
     private static final Pattern patternTag = Pattern.compile("<([^>/]+)>");
     private static final Pattern patternAdjective = Pattern.compile("<adjective>([\\s\\S]*)</adjective>");
     private static final Pattern patternAdverb = Pattern.compile("<adverb>([\\s\\S]*)</adverb>");
@@ -63,7 +63,7 @@ public class MalayMorphoEntryBuilder {
             Matcher matcherTag = patternTag.matcher(entry);
             while (matcherTag.find()) {
                 String tag = matcherTag.group(1).replace("-", "");
-                if (setPos.contains(tag)) {
+                if (setPos.contains(tag)) {    
                     String fieldName = "pattern" + capitalize(tag);
                     Pattern pattern = (Pattern)this.getClass().getDeclaredField(fieldName).get(null);
                     Matcher matcher = pattern.matcher(entry.substring(matcherTag.start()));
@@ -83,6 +83,13 @@ public class MalayMorphoEntryBuilder {
                         }
                     }
                 }
+                else {
+                    /* debugging */
+                    System.out.println("tagNotFound::"+tag);
+                    if(tag.toLowerCase().contains("alternativeforms") || tag.toLowerCase().contains("templ") || tag.toLowerCase().contains("derivedterms")) {
+                        System.out.println("\t"+title+"="+text);
+                    }
+                }
             }
         }
         return entries;
@@ -91,212 +98,83 @@ public class MalayMorphoEntryBuilder {
     private static String capitalize(String s) {
         return s.substring(0, 1).toUpperCase() + s.substring(1);
     }
-    */
+
     /** POS Regex **/
-    /*
-    //TODO: Se ci si riesce estrarre il genitivo e il partitivo dai nomi aggettivi pronomi
     
-    private static final Pattern patternNomFormOf = Pattern.compile("<templ>et-nom form of[\\s\\S]*</templ>");
-    private static final Pattern patternVerbFormOf = Pattern.compile("<templ>et-verb form of[\\s\\S]*</templ>");
+    private static final Pattern patternNomFormOf = Pattern.compile("<templ>ms-nom form of[\\s\\S]*</templ>");
+    private static final Pattern patternVerbFormOf = Pattern.compile("<templ>ms-verb form of[\\s\\S]*</templ>");
     private static final Pattern patternDeclension = Pattern.compile("<declension>([\\s\\S]*)</declension>");
     private static final Pattern patternConjugation = Pattern.compile("<conjugation>([\\s\\S]*)</conjugation>");
     private static final Pattern patternTempl = Pattern.compile("<templ>([\\s\\S]*)</templ>");
     private static final Pattern patternTemplate = Pattern.compile("([^\\|\\}\\{\\<]+)(\\|([^\\|\\}\\{\\<]*))*");
     private static final Pattern patternParameters = Pattern.compile("\\|([^\\|\\}\\{\\<]+)");
-    
+
     private List<MorphoEntry> adjectiveBuilder(String title, String text) {
-        Matcher matcherNomFormOf = patternNomFormOf.matcher(text);
-        if (!matcherNomFormOf.find()) {
-            countAdjective++;
-            List<EstonianDeclension> declensions = extractDeclensions(text);
-            
-            List<MorphoEntry> entries = new ArrayList();
-            
-            for(int i = 0; i < declensions.size(); i++) {
-                entries.add(new EstonianAdjective(title, declensions.get(i), true));
-            }
-            
-            return entries;
-        } else {
-            countNomFormOf++;
-        }
-        return null;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayAdjective(title));
+        return result;
     }
-    
+
     private List<MorphoEntry> adverbBuilder(String title, String text) {
-        countAdverb++;
-        List<MorphoEntry> entries = new ArrayList();
-        entries.add(new EstonianAdverb(title));
-        return entries;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayAdverb(title));
+        return result;
     }
-    
+
     private List<MorphoEntry> conjunctionBuilder(String title, String text) {
-        countConjunction++;
-        List<MorphoEntry> entries = new ArrayList();
-        entries.add(new EstonianConjunction(title));
-        return entries;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayConjunction(title));
+        return result;
     }
     
     private List<MorphoEntry> interjectionBuilder(String title, String text) {
-        countInterjection++;
-        List<MorphoEntry> entries = new ArrayList();
-        entries.add(new EstonianInterjection(title));
-        return entries;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayInterjection(title));
+        return result;
     }
     
     private List<MorphoEntry> nounBuilder(String title, String text) {        
-        Matcher matcherNomFormOf = patternNomFormOf.matcher(text);
-        if (!matcherNomFormOf.find()) {
-            countNoun++;
-            List<EstonianDeclension> declensions = extractDeclensions(text);
-            
-            List<MorphoEntry> entries = new ArrayList();
-            
-            for(int i = 0; i < declensions.size(); i++) {
-                entries.add(new EstonianNoun(title, declensions.get(i), true));
-            }
-            
-            return entries;
-        } else {
-            countNomFormOf++;
-        }
-        return null;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayNoun(title));
+        return result;
     }
-    
+
     private List<MorphoEntry> numeralBuilder(String title, String text) {
-        countNumeral++;
-        List<MorphoEntry> entries = new ArrayList();
-        entries.add(new EstonianNumeral(title));
-        return entries;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayNumeral(title));
+        return result;
     }
-    
+
     private List<MorphoEntry> postpositionBuilder(String title, String text) {
-        countPostposition++;
-        List<MorphoEntry> entries = new ArrayList();
-        entries.add(new EstonianPostposition(title));
-        return entries;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayPostposition(title));
+        return result;
     }
-    
+
     private List<MorphoEntry> prepositionBuilder(String title, String text) {
-        countPreposition++;
-        List<MorphoEntry> entries = new ArrayList();
-        entries.add(new EstonianPreposition(title));
-        return entries;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayPreposition(title));
+        return result;
     }
-    
+
     private List<MorphoEntry> pronounBuilder(String title, String text) {
-        Matcher matcherNomFormOf = patternNomFormOf.matcher(text);
-        if (!matcherNomFormOf.find()) {
-            countPronoun++;
-            List<EstonianDeclension> declensions = extractDeclensions(text);
-            
-            List<MorphoEntry> entries = new ArrayList();
-            
-            for(int i = 0; i < declensions.size(); i++) {
-                entries.add(new EstonianPronoun(title, declensions.get(i), true));
-            }
-            
-            return entries;
-        } else {
-            countNomFormOf++;
-        }
-        return null;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayPronoun(title));
+        return result;
     }
-    
+
     private List<MorphoEntry> propernounBuilder(String title, String text) {
-        countPropernoun++;
-        List<MorphoEntry> entries = new ArrayList();
-        entries.add(new EstonianPropernoun(title));
-        return entries;
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayPropernoun(title));
+        return result;
     }
-    
+
     private List<MorphoEntry> verbBuilder(String title, String text) {
-        Matcher matcherVerbFormOf = patternNomFormOf.matcher(text);
-        if (!matcherVerbFormOf.find()) {
-            countVerb++;
-            List<EstonianConjugation> conjugations = extractConjugations(text);
-            
-            List<MorphoEntry> entries = new ArrayList();
-            
-            for(int i = 0; i < conjugations.size(); i++) {
-                entries.add(new EstonianVerb(title, conjugations.get(i), true));
-            }
-            
-            return entries;
-        } else {
-            countVerbFormOf++;
-        }
-        return null;
-    }
-    
-    private List<EstonianDeclension> extractDeclensions(String text) {
-        ArrayList<EstonianDeclension> decl = new ArrayList();
-        
-        Matcher matcherDeclension = patternDeclension.matcher(text);
-        while (matcherDeclension.find()) {
-            if (matcherDeclension.group(1) != null) {
-                String templ = matcherDeclension.group(1);
-                Matcher matcherTempl = patternTempl.matcher(templ);
-                while(matcherTempl.find()) {
-                    if (matcherTempl.group(1) != null) {
-                        String template = matcherTempl.group(1);
-                        Matcher matcherTemplate = patternTemplate.matcher(template);
-                        if(matcherTemplate.matches()) {
-                            String type = matcherTemplate.group(1);
-                            Matcher matcherParameters = patternParameters.matcher(template);
-                            ArrayList<String> morphemes = new ArrayList();
-                            while(matcherParameters.find()) {
-                                String par = matcherParameters.group(1);
-                                morphemes.add(par);
-                            }
-                            decl.add(new EstonianDeclension(type, morphemes));
-                        }
-                    }
-                }
-            }
-        }
-        
-        if(decl.isEmpty()) {
-            decl.add(new EstonianDeclension(null, null));
-        }
-        
-        return decl;
-    }
-    
-    private List<EstonianConjugation> extractConjugations(String text) {
-        ArrayList<EstonianConjugation> conj = new ArrayList();
-        
-        Matcher matcherConjugation = patternConjugation.matcher(text);
-        while (matcherConjugation.find()) {
-            if (matcherConjugation.group(1) != null) {
-                String templ = matcherConjugation.group(1);
-                Matcher matcherTempl = patternTempl.matcher(templ);
-                while(matcherTempl.find()) {
-                    if (matcherTempl.group(1) != null) {
-                        String template = matcherTempl.group(1);
-                        Matcher matcherTemplate = patternTemplate.matcher(template);
-                        if(matcherTemplate.matches()) {
-                            String type = matcherTemplate.group(1);
-                            Matcher matcherParameters = patternParameters.matcher(template);
-                            ArrayList<String> morphemes = new ArrayList();
-                            while(matcherParameters.find()) {
-                                String par = matcherParameters.group(1);
-                                morphemes.add(par);
-                            }
-                            conj.add(new EstonianConjugation(type, morphemes));
-                        }
-                    }
-                }   
-            }
-        }
-        
-        if(conj.isEmpty()) {
-            conj.add(new EstonianConjugation(null, null));
-        }
-        
-        return conj;
-    }
-    
+        ArrayList<MorphoEntry> result = new ArrayList<MorphoEntry>();
+        result.add(new MalayVerb(title));
+        return result;
+    }  
+ 
     public int getCountAdjective() { return countAdjective; }
     public int getCountAdverb() { return countAdverb; }
     public int getCountConjunction() { return countConjunction; }
@@ -310,5 +188,5 @@ public class MalayMorphoEntryBuilder {
     public int getCountVerb() { return countVerb; }
     public int getCountNomFormOf() { return countNomFormOf; }
     public int getCountVerbFormOf() { return countVerbFormOf; }
-    */
+
 }

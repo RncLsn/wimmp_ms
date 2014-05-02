@@ -21,30 +21,35 @@ public class MalayTextProcessor implements TextProcessor {
 
     private List<MorphoEntry> entries;
 
-    private static final Pattern patternEstonian = Pattern.compile("=+\\s*[eE]stonian\\s*=+");
+    private static final Pattern patternMalay = Pattern.compile("=+\\s*[mM]alay\\s*=+");
 
-    private int numEstonian = 0;
+    private int numMalay = 0;
     
-    private MalayMorphoEntryBuilder morphoEntryBuilder = new EstonianMorphoEntryBuilder();
+    private MalayMorphoEntryBuilder morphoEntryBuilder = new MalayMorphoEntryBuilder();
 
     @Override
     public void processText(String title, String text) {
-        if(patternEstonian.matcher(text).find()) {
-            numEstonian++;
+
+        if(patternMalay.matcher(text).find()) {
+            numMalay++;
             try {
                 Pattern commentsEraser = Pattern.compile("<!--[\\s\\S]*-->");
                 text = commentsEraser.matcher(text).replaceAll("");
-                
+        
+                // System.out.println("textFromXmlParser:"+title+"="+text);
+
                 StringWriter out = new StringWriter();
                 
                 // We take advantage from the wikitext library to parse mediawiki markup language
                 // into an intermediate xml format with which we build morpho entries
                 MediaWikiLanguage markuplanguage = new MediaWikiLanguage();
-                markuplanguage.getTemplateProviders().add(new EstonianTemplateResolver());
-                MarkupParser markupParser = new MarkupParser(markuplanguage, new EstonianDocumentBuilder(out));
+                markuplanguage.getTemplateProviders().add(new MalayTemplateResolver());
+                MarkupParser markupParser = new MarkupParser(markuplanguage, new MalayDocumentBuilder(out));
                 markupParser.parse(text);
                 String output = StringEscapeUtils.unescapeHtml4(out.toString().trim());
 
+				// System.out.println("textFromWikiMarkupParser:"+output);
+                
                 entries = morphoEntryBuilder.buildMorphoEntries(title, output);
                 
                 for (MorphoEntry entry : entries) {
@@ -52,6 +57,7 @@ public class MalayTextProcessor implements TextProcessor {
                         listener.morphoEntry(entry);
                     }
                 }
+
             } catch(Exception ex) {
                 ex.printStackTrace();
             }
@@ -68,8 +74,8 @@ public class MalayTextProcessor implements TextProcessor {
         }
     
         Logger log = (Logger) Configuration.getResource("logger");
-        
-        log.info("numEstonian: " + numEstonian);
+        /*
+        log.info("numMalay: " + numMalay);
         log.info("countAdjective: " + morphoEntryBuilder.getCountAdjective());
         log.info("countAdverb: " + morphoEntryBuilder.getCountAdverb());
         log.info("countConjunction: " + morphoEntryBuilder.getCountConjunction());
@@ -83,6 +89,7 @@ public class MalayTextProcessor implements TextProcessor {
         log.info("countVerb: " + morphoEntryBuilder.getCountVerb());
         log.info("countNomFormOf: " + morphoEntryBuilder.getCountNomFormOf());
         log.info("countVerbFormOf: " + morphoEntryBuilder.getCountVerbFormOf());
+        */
     }
     
     private ArrayList<MorphoEntryListener> listeners = new ArrayList();

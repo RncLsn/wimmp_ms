@@ -1,21 +1,12 @@
 package it.uniroma1.lcl.wimmp.parse.morpho;
 
 import it.uniroma1.lcl.wimmp.*;
+import it.uniroma1.lcl.wimmp.parse.EmptyRule;
 
 public class MalayNoun extends MorphoEntry {
 
-    /*
-    private String gen;
-    private String part;
-
-    public EstonianNoun(String lemma, EstonianDeclension decl, boolean regular) {
-        this(lemma, decl, regular, "", "");
+    public MalayNoun(String lemma) {
+        super(lemma, MorphoEntry.POS.NOUN, true, new EmptyRule());
     }
 
-    public EstonianNoun(String lemma, EstonianDeclension decl, boolean regular, String gen, String part) {
-        super(lemma, MorphoEntry.POS.NOUN, regular, decl);
-        this.gen = gen;
-        this.part = part;
-    }
-    */
 }

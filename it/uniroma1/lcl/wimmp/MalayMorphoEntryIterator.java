@@ -2,7 +2,7 @@ package it.uniroma1.lcl.wimmp;
 
 import it.uniroma1.lcl.wimmp.MorphoEntryListener;
 import it.uniroma1.lcl.wimmp.parser.WiktionaryParser;
-import it.uniroma1.lcl.wimmp.parse.et.EstonianTextProcessor;
+import it.uniroma1.lcl.wimmp.parse.MalayTextProcessor;
 
 import java.lang.IllegalArgumentException;
 import java.lang.InterruptedException;
@@ -27,7 +27,7 @@ public class MalayMorphoEntryIterator extends MorphoEntryIterator {
         
         public void run() {
             WiktionaryParser parser = new WiktionaryParser(dataset);
-            EstonianTextProcessor processor = new EstonianTextProcessor();
+            MalayTextProcessor processor = new MalayTextProcessor();
             processor.addMorphoEntryListener(this);
             parser.addTextProcessor(processor);
             try {
@@ -64,7 +64,7 @@ public class MalayMorphoEntryIterator extends MorphoEntryIterator {
         }
         
         queue = new ArrayBlockingQueue<MorphoEntry>(20);
-        producer = new EstonianMorphoEntryProducer(dumps[0], queue);
+        producer = new MalayMorphoEntryProducer(dumps[0], queue);
         new Thread(producer).start();
     }
     

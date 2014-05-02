@@ -20,6 +20,8 @@ public class MalayDocumentBuilder extends AbstractXmlDocumentBuilder {
     
     private String text = "";
     private int lastLevel = 0;
+
+	private static String lang = "malay";
     
     private Pattern patternTemplate = Pattern.compile("(<templ>[\\s\\S]*</templ>)");
     
@@ -39,7 +41,7 @@ public class MalayDocumentBuilder extends AbstractXmlDocumentBuilder {
 	public void endHeading() {
         if (heading) {
             String tag = normalizeTag(text);
-            if (etLevel < 0 && tag.equals("estonian")) {
+            if (etLevel < 0 && tag.equals(lang)) {
                 etLevel = lastLevel;
                 writer.writeStartElement(tag);
                 levStack.push(lastLevel);

@@ -10,14 +10,14 @@ import java.io.*;
 
 public class MalayTemplateResolver extends TemplateResolver {
 
-    private static final Pattern templatePattern = Pattern.compile("(et-[^}\\{\\|]*|head)");
+    private static final Pattern templatePattern = Pattern.compile("head");
     private static final Pattern namePattern = Pattern.compile("\\{\\{\\{name\\}\\}\\}");
     
     private static Map<String, String> templates = new HashMap();
 	static {
 	    String srcPath = (String) Configuration.getResource("src");
-	    String etTemplatesPath = (String) Configuration.getResource("et-templates");
-	    String fileName = srcPath + etTemplatesPath;
+	    String templatesPath = (String) Configuration.getResource("ms-templates");
+	    String fileName = srcPath + templatesPath;
 	    
 	    try (BufferedReader reader = new BufferedReader(new FileReader(fileName))) {
 			String line;
